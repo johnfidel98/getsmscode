@@ -24,14 +24,19 @@ const countryCodes = new Set([
   'kh', // Cambodia
   'mm', // Myanmar
   'vn', // Vietnam
+  'la', // Laos
   'id', // Indonesia
   'hk', // Hong Kong
   'mo', // Macao
   'th', // Thailand
   'br', // Brazil
   'eg', // Egypt
+  'za', // South Africa
+  'mg', // Madagascar
+  'cd', // Congo
   'uk', // United Kingdom
-  'za' // South Africa
+  'ma', // Morrocco
+  'ru' // Russia
 ])
 
 /**
