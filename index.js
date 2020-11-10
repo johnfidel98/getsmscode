@@ -8,14 +8,14 @@ const projects = require('./lib/projects')
 const domainToSuffix = {
   usdo: 'usdo',
   vndo: 'vndo',
-  'do': 'do',
+  do: 'do',
   usa: 'usdo',
   us: 'usdo',
   china: 'do',
   hk: 'do',
   cn: 'do',
-  'asia': 'vndo',
-  'seasia': 'vndo'
+  asia: 'vndo',
+  seasia: 'vndo'
 }
 
 const countryCodes = new Set([
