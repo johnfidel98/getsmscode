@@ -30,6 +30,7 @@ const countryCodes = new Set([
   'th', // Thailand
   'br', // Brazil
   'eg', // Egypt
+  'uk', // United Kingdom
   'za' // South Africa
 ])
 
